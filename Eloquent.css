@@ -1,0 +1,28 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    display: flex;
+    flex-direction: column;
+
+}
+
+
+#DIV{
+display: flex;
+justify-content: center;
+align-items: center;
+margin: auto;
+flex-direction: column;
+height: 25vh;
+justify-items: flex-end;
+width: 100vw;
+background-color: yellow;
+
+}
+#grey{
+    height: 7vh;
+    width: 100vw;
+    background-color: black;
+}
